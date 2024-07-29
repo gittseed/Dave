@@ -3,11 +3,7 @@
 
 #include <SDL.h>
 
-/* Format of the level information
- * -path is used for monster movement
- * -tiles contain tileset indices
- * -padding unused but included for capatibility
- */
+
 struct dave_level {
 	int8_t path[256];
 	uint8_t tiles[1000];
