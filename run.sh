@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # In order to run this script, open a Terminal session
 # to the same directory and type "chmod u+x comprun.sh"
