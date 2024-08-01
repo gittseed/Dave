@@ -1,7 +1,6 @@
 
 
-e directory and type "chmod u+x comprun.sh"
-# without the quotes once to update permissions. Then to
+t the quotes once to update permissions. Then to
 # run the script, from the same Terminal type "./comprun.sh"
 
 # This assumes you have installed SDL2 and SDL_Image libraries on your system
