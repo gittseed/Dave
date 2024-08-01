@@ -1,8 +1,4 @@
 
-
-t the quotes once to update permissions. Then to
-# run the script, from the same Terminal type "./comprun.sh"
-
 # This assumes you have installed SDL2 and SDL_Image libraries on your system
 # Adjust the paths accordingly if needed
 
