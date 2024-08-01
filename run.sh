@@ -1,7 +1,6 @@
 
 
-# In order to run this script, open a Terminal session
-# to the same directory and type "chmod u+x comprun.sh"
+e directory and type "chmod u+x comprun.sh"
 # without the quotes once to update permissions. Then to
 # run the script, from the same Terminal type "./comprun.sh"
 
