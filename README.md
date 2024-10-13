@@ -1,7 +1,7 @@
 # Dangerous Dave
 This is a replica of the classic game Dangerous Dave, built using the C programming language and the SDL (Simple DirectMedia Layer) library. It aims to recreate the nostalgic gameplay experience of the original while adding some modern twists.
 
-![Game Screenshot](images/a.png)
+![Game Screenshot](a.png)
 
 
 ## Build Notes
